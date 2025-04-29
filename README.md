@@ -46,7 +46,7 @@ I'm always up for meaningful collaborations, whether it’s a cool UI challenge 
 
 ## 📬 Contact Info
 
-📧 **Email**: [zaidjaber105@gmail.com](mailto:zaidjaber105@gmail.com)  
+📧 **Email**: [![Email](https://img.shields.io/badge/Email-Send-lightgrey?logo=gmail)](mailto:zaidjaber105@gmail.com)  
 🔗 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/zaidjaber13)  
 💻 **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1)  
 🎨 **Behance**: [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance)](https://www.behance.net/zaidjaber4)
