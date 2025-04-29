@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Zaid Jaber
 
-Welcome to my GitHub corner! I'm a curious and committed **Software Engineer** with a passion for frontend development, UI/UX design, and AI integration. This space highlights some of the projects I've worked on and the skills I've grown along the way.
+Welcome to my GitHub profile! I'm a curious and committed **Software Engineer** with a passion for frontend development, UI/UX design, and AI integration. This space highlights some of the projects I've worked on and the skills I've grown along the way.
 
 <br>
 
