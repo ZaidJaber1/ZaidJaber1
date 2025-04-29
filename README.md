@@ -2,7 +2,7 @@
 
 Welcome to my GitHub corner! I'm a curious and committed **Software Engineer** with a passion for frontend development, UI/UX design, and AI integration. This space highlights some of the projects I've worked on and the skills I've grown along the way.
 
-
+<br>
 
 ## 🚀 Featured Projects
 
@@ -18,6 +18,7 @@ Flutter-based app to help users recognize symptoms via voice input and find near
 ☁️ **Weather App**  
 Simple and responsive weather app using React.js and TypeScript, with a visually appealing interface created in Figma.
 
+<br>
 
 
 ## 📚 Currently Exploring
@@ -27,13 +28,13 @@ Simple and responsive weather app using React.js and TypeScript, with a visually
 🌐 MERN Full Stack development strategies  
 🎨 UI/UX Accessibility (WCAG) Best Practices  
 
-
+<br>
 
 ## 🤝 Let’s Collaborate
 
 I'm always up for meaningful collaborations, whether it’s a cool UI challenge or an AI-enhanced feature. Drop a message and let’s connect!
 
-
+<br>
 
 ## 🔍 Tech Stack & Focus
 
@@ -42,7 +43,7 @@ I'm always up for meaningful collaborations, whether it’s a cool UI challenge 
 🛠️ Backend (Basics): Node.js, Express  
 🧠 AI Tools: Prompt writing, model behavior testing  
 
-
+<br>
 
 ## 📬 Contact Info
 
@@ -51,14 +52,14 @@ I'm always up for meaningful collaborations, whether it’s a cool UI challenge 
 💻 **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1)  
 🎨 **Behance**: [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?logo=behance)](https://www.behance.net/zaidjaber4)
 
-
+<br>
 
 
 ## ✨ Fun to Know
 
 I love turning creative UI designs into clean, scalable code. Watching an idea evolve into a live product is the most satisfying part of my work.
 
-
+<br>
 
 ## 🌟 Personal Interests
 
@@ -68,5 +69,6 @@ I love turning creative UI designs into clean, scalable code. Watching an idea e
 ⚽ Football Fanatic & Player  
 🎶 Music That Fuels Flow State  
 
+<br>
 
 ## 🌐 Let’s build something cool together!
