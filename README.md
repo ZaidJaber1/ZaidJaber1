@@ -7,19 +7,19 @@ Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring so
 
 ## 🚀 Featured Projects
 
-🧪 **OrangeHRM Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Testing-OrangeHRM)  
+**OrangeHRM Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Testing-OrangeHRM)  
 Manual testing of the OrangeHRM system, creating test scenarios, reporting bugs, and validating fixes to ensure correct functionality across modules.
 
-🔍 **Contact List App – API Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Contact-List---API-Testing)  
+**Contact List App – API Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Contact-List---API-Testing)  
 Tested CRUD operations, authentication, and JSON responses using Postman. Executed both positive and negative scenarios to ensure API reliability and compliance with requirements.
 
-💬 **Hakini – WhatsApp Client Chat App**<br>
+**Hakini – WhatsApp Client Chat App**<br>
 Built using React.js, Redux, TypeScript, and Tailwind CSS with integrated QA testing, API validation, error handling checks, and edge case testing.
 
-🛍️ **ZERA Store – Fashion E-commerce Platform** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/ZERAStore)  
+**ZERA Store – Fashion E-commerce Platform** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/ZERAStore)  
 Developed a full e-commerce platform using React.js, Redux, TypeScript, and Tailwind CSS. Designed UI/UX with Figma and created test cases to verify product page functionality, cart logic, and form validations.
 
-🩺 **Smart Medical Guidance – Graduation Project** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/wafaabdalhadi/smg-senior-final)  
+**Smart Medical Guidance – Graduation Project** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/wafaabdalhadi/smg-senior-final)  
 Flutter-based app to identify symptoms via voice input and locate nearby clinics. Conducted voice input accuracy tests, API response validation, and Android performance testing.
 
 
@@ -27,10 +27,10 @@ Flutter-based app to identify symptoms via voice input and locate nearby clinics
 
 ## 📚 Currently Exploring
 
-📝 **Manual Testing** – Writing and executing test cases, exploratory testing, and detailed bug reporting.<br>
-🤖 **Automated Testing** – Building and maintaining automation scripts with **Selenium** and **TestNG**.<br>
-🌐 **API Testing** – Validating endpoints, authentication, and data integrity using **Postman**.<br>
-📱 **Mobile Testing** – Ensuring app stability, usability, and performance across different devices.<br>
+**Manual Testing** – Writing and executing test cases, exploratory testing, and detailed bug reporting.<br>
+**Automated Testing** – Building and maintaining automation scripts with **Selenium** and **TestNG**.<br>
+**API Testing** – Validating endpoints, authentication, and data integrity using **Postman**.<br>
+**Mobile Testing** – Ensuring app stability, usability, and performance across different devices.<br>
 
 <br>
 
@@ -42,12 +42,12 @@ Open to working on **QA testing projects**, **API validation**, **test automatio
 
 ## 🔍 Tech Stack & Focus
 
-🖥️ **QA Skills**: Manual Testing, Automated Testing, API Testing, Mobile Testing, Test Case Design, Test Execution, Bug Reporting, Agile & Scrum<br>
-💻 **Programming Languages for Testing**: JavaScript, Java, Python<br>
-🛠️ **Tools & Frameworks**: Selenium, TestNG, Postman, JIRA, Git, GitHub<br>
-🗄️ **Databases for Testing**: MySQL, SQL Server<br>
-📱 **Mobile Testing Tools**: Android/iOS testing, device emulators<br>
-📝 **Other QA Practices**: Test planning, QA documentation, defect tracking<br>
+**QA Skills**: Manual Testing, Automated Testing, API Testing, Mobile Testing, Test Case Design, Test Execution, Bug Reporting, Agile & Scrum<br>
+**Programming Languages for Testing**: JavaScript, Java, Python<br>
+**Tools & Frameworks**: Selenium, TestNG, Postman, JIRA, Git, GitHub<br>
+**Databases for Testing**: MySQL, SQL Server<br>
+**Mobile Testing Tools**: Android/iOS testing, device emulators<br>
+**Other QA Practices**: Test planning, QA documentation, defect tracking<br>
 
 <br>
 
