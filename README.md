@@ -13,7 +13,7 @@ Manual testing of the OrangeHRM system, creating test scenarios, reporting bugs,
 🔍 **Contact List App – API Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Contact-List---API-Testing)  
 Tested CRUD operations, authentication, and JSON responses using Postman. Executed both positive and negative scenarios to ensure API reliability and compliance with requirements.
 
-💬 **Hakini – WhatsApp Client Chat App**
+💬 **Hakini – WhatsApp Client Chat App**<br>
 Built using React.js, Redux, TypeScript, and Tailwind CSS with integrated QA testing, API validation, error handling checks, and edge case testing.
 
 🛍️ **ZERA Store – Fashion E-commerce Platform** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/ZERAStore)  
