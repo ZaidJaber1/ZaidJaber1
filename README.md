@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Zaid Jaber
 
-Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring software quality, reliability, and usability. I specialize in **manual, automated, API, and mobile testing** while also leveraging my frontend development background to create responsive, user-friendly web applications. I thrive on clean code, improving user experiences, and collaborating to deliver high-quality software.
+Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring software quality, reliability, and usability. I specialize in **Manual, Automated, API, Database and mobile testing** while also leveraging my frontend development background to create responsive, user-friendly web applications. I thrive on clean code, improving user experiences, and collaborating to deliver high-quality software.
 
 <br>
 
