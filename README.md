@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Zaid Jaber
 
-Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring software quality, reliability, and usability. I specialize in **Manual, Automated, API, Database and mobile testing** while also leveraging my frontend development background to create responsive, user-friendly web applications. I thrive on clean code, improving user experiences, and collaborating to deliver high-quality software.
+Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring software quality, reliability, and usability. I specialize in **Manual, Automated, API, Database and Mobile Testing** while also leveraging my frontend development background to create responsive, user-friendly web applications. I thrive on clean code, improving user experiences, and collaborating to deliver high-quality software.
 
 <br>
 
@@ -10,11 +10,12 @@ Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring so
 **OrangeHRM Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Testing-OrangeHRM)  
 Manual testing of the OrangeHRM system, creating test scenarios, reporting bugs, and validating fixes to ensure correct functionality across modules.
 
+**OrangeHRM – Automation Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/hannafarhoud/Automation-OrangeHRM-Project)  
+Developed and executed automated test scripts for the OrangeHRM application using Selenium and Java.  
+Applied TestNG annotations and assertions to design structured test cases and validate functionality.
+
 **Contact List App – API Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Contact-List---API-Testing)  
 Tested CRUD operations, authentication, and JSON responses using Postman. Executed both positive and negative scenarios to ensure API reliability and compliance with requirements.
-
-**Hakini – WhatsApp Client Chat App**<br>
-Built using React.js, Redux, TypeScript, and Tailwind CSS with integrated QA testing, API validation, error handling checks, and edge case testing.
 
 **ZERA Store – Fashion E-commerce Platform** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/ZERAStore)  
 Developed a full e-commerce platform using React.js, Redux, TypeScript, and Tailwind CSS. Designed UI/UX with Figma and created test cases to verify product page functionality, cart logic, and form validations.
