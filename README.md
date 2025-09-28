@@ -17,12 +17,8 @@ Applied TestNG annotations and assertions to design structured test cases and va
 **Contact List App – API Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Contact-List---API-Testing)  
 Tested CRUD operations, authentication, and JSON responses using Postman. Executed both positive and negative scenarios to ensure API reliability and compliance with requirements.
 
-**ZERA Store – Fashion E-commerce Platform** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/ZERAStore)  
-Developed a full e-commerce platform using React.js, Redux, TypeScript, and Tailwind CSS. Designed UI/UX with Figma and created test cases to verify product page functionality, cart logic, and form validations.
-
-**Smart Medical Guidance – Graduation Project** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/wafaabdalhadi/smg-senior-final)  
-Flutter-based app to identify symptoms via voice input and locate nearby clinics. Conducted voice input accuracy tests, API response validation, and Android performance testing.
-
+**Facebook App – Mobile and Performance Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Mobile-Performance-Testing-Project)  
+Automated testing of the Facebook mobile app using Appium, Selenium, and Java, covering core features and user interactions. Conducted performance testing of GitHub with JMeter, analyzing response times, and throughput. 
 
 <br>
 
