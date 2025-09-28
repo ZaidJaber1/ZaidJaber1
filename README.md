@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **QA Engineer** passionate about ensuring so
 
 ## 🚀 Featured Projects
 
-**OrangeHRM Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Testing-OrangeHRM)  
+**OrangeHRM Testing - Manual Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/ZaidJaber1/Testing-OrangeHRM)  
 Manual testing of the OrangeHRM system, creating test scenarios, reporting bugs, and validating fixes to ensure correct functionality across modules.
 
 **OrangeHRM – Automation Testing** [![GitHub](https://img.shields.io/badge/GitHub-Visit-black?logo=github)](https://github.com/hannafarhoud/Automation-OrangeHRM-Project)  
